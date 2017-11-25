@@ -3,7 +3,7 @@
 ## Why?
 Clone of http://gameaboutsquares.com/ written in Java, for educational purpose.
 
-My first experience creating a game, and my introduction in OOP, OpenGL, and Java. It uses lwjgl-2.9.1 and slick2d.
+My first experience creating a game (sometime in the summer of 2013), and my introduction in OOP, OpenGL, and Java. It uses lwjgl-2.9.1 and slick2d.
 
 It was developed more as a "tech research", as the gameplay mechanic is mostly unfinished - only 2 test levels and one working editor.
 
